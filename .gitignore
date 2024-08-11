@@ -1,0 +1,44 @@
+# Entorno virtual
+myenv/
+
+# Python
+*.py[cod]
+__pycache__/
+*.so
+
+# Archivos de configuración de editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Archivos de configuración del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+*.log
+
+# Archivos de configuración de paquetes
+*.env
+.venv/
+env/
+ENV/
+venv/
+ENV.bak/
+venv.bak/
+
+# Archivos generados por herramientas de construcción
+build/
+dist/
+*.egg-info/
+
+# Configuración personal
+*.ini
+*.cfg
+
+# Archivos de caché de Jupyter Notebook
+.ipynb_checkpoints/
+
+# Archivos de Docker
+docker-compose.override.yml
